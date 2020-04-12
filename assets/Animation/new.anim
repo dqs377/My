@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "new",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Button": {
+        "props": {
+          "y": []
+        }
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 150.768
+        },
+        {
+          "frame": 0.5,
+          "value": -31.195
+        }
+      ]
+    }
+  },
+  "events": []
+}
